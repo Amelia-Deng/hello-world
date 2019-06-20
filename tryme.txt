@@ -1,2 +1,4 @@
 Let's try again.
 This thing is really weird for beginners.
+I changed it after the DOS command.
+
